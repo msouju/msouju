@@ -1,7 +1,6 @@
 ## Hi, everyone 👋
-- 👀 Sou granduanda em Análise e Desenvolvimento de Sistemas pela PUCPR 
-- e pós-granduanda em Desenvolvimento de Sistemas com Java.
-- 🌱 Hoje estou estudando Desenvolvimento Full Stack e React.
+- 👀 Desenvolvimento de Software
+- 🌱 Hoje estou estudando Python e Java
 - 📫 Converse comigo no e-mail: msouza.jul@gmail.com
 
 <div style="display: inline_block"><br>
