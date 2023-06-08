@@ -1,6 +1,6 @@
 ## Hi, everyone 👋
-- 👀 Desenvolvimento de Software
-- 🌱 Hoje estou estudando Python e Java
+- 👀 Graduanda em Análise e Desenvolvimento de Software
+- 🌱 Hoje estou estudando Python e React
 - 📫 Converse comigo no e-mail: msouza.jul@gmail.com
 
 <div style="display: inline_block"><br>
