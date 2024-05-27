@@ -1,7 +1,7 @@
 ## Hi, everyone 👋
 - 👀 Graduanda em Análise e Desenvolvimento de Software
-- 🌱 Hoje estou estudando Python e React
-- 📫 Converse comigo no e-mail: msouza.jul@gmail.com
+- 🌱 Hoje estou estudando Java e React
+- 📫 Converse comigo no e-mail: msoujul@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
